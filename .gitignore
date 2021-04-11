@@ -1,0 +1,18 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/Cipher/DesignTimeBuild/.dtbcache.v2
+/.vs/Cipher/v16/.suo
+/Cipher/bin/Debug/netcoreapp3.1/Cipher.runtimeconfig.json
+/Cipher/bin/Debug/netcoreapp3.1/Cipher.runtimeconfig.dev.json
+/Cipher/bin/Debug/netcoreapp3.1/Cipher.pdb
+/Cipher/bin/Debug/netcoreapp3.1/Cipher.exe
+/Cipher/bin/Debug/netcoreapp3.1/Cipher.dll
+/Cipher/bin/Debug/netcoreapp3.1/Cipher.deps.json
+/Cipher/obj/Debug/netcoreapp3.1/apphost.exe
+/Cipher/obj/Debug/netcoreapp3.1/Cipher.csproj.CoreCompileInputs.cache
+/Cipher/obj/Debug/netcoreapp3.1/Cipher.csproj.FileListAbsolute.txt
+/Cipher/obj/Debug/netcoreapp3.1/Cipher.dll
+/Cipher/obj/Debug/netcoreapp3.1/Cipher.genruntimeconfig.cache
+/Cipher/obj/Debug/netcoreapp3.1/Cipher.pdb
